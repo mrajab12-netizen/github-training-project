@@ -41,6 +41,10 @@ footer{
 nav a:hover{
     color: yellow;
 }
+
+nav a:hover{
+    color: yellow;
+}
 @media(max-width:768px){
 
     nav{
@@ -53,7 +57,4 @@ nav a:hover{
         margin-top: 10px;
     }
 
-}
-nav a:hover{
-    color: yellow;
 }
