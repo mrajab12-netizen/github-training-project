@@ -58,3 +58,6 @@ nav a:hover{
     }
 
 }
+button {
+   border-radius: 10px;
+}
